@@ -2,7 +2,7 @@ Summary:	Python PE parsing module
 Summary(pl.UTF-8):	Moduł Pythona do analizy PE
 Name:		python3-pefile
 Version:	2023.2.7
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pefile/
